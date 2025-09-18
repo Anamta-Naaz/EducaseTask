@@ -84,3 +84,9 @@
     background-color: #c4a3fa;
   }
   
+
+  @media (max-width=650px) {
+    .landing-card {
+      margin-left: 0;
+    }
+  }
