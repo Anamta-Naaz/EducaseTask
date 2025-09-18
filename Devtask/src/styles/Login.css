@@ -95,3 +95,9 @@
     background-color: #6C25FF; 
   }
   
+
+  @media (max-width:650px) {
+    .login-card{
+      margin-left: 0;
+    }
+  }

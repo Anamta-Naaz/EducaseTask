@@ -85,8 +85,24 @@
   }
   
 
-  @media (max-width=650px) {
-    .landing-card {
-      margin-left: 0;
-    }
+@media (max-width: 768px) {
+  .landing-card {
+    width: 360px;
+    padding: 20px;
+    margin-left: 0;
   }
+   
+  .landing-title {
+    margin-top: 400px;
+    margin-left: 0;
+  }
+  
+  .landing-subtext{
+    margin-left: 0;
+
+  }
+  .btn-primary,   .btn-secondary{
+    margin-left: 0;
+  }
+}
+

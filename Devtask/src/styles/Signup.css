@@ -123,3 +123,9 @@
     background-color: #9c6bff;
   }
   
+
+  @media (max-width:650px) {
+    .signup-card {
+      margin-left: 0;
+    }
+  }
